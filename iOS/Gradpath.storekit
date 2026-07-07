@@ -1,0 +1,29 @@
+{
+  "identifier": "MASTER",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "gradpath_pro",
+      "localizations": [
+        {
+          "description": "Estimated graduation date projection",
+          "displayName": "Gradpath Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "gradpath_pro",
+      "referenceName": "Gradpath Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
